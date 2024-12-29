@@ -1,0 +1,6 @@
+".\Objects\main.obj",
+".\Objects\STC8G_H_Delay.obj",
+".\Objects\STC8G_H_EEPROM.obj",
+".\Objects\STC8G_H_GPIO.obj" 
+TO ".\Objects\Project" 
+PRINT(".\Listings\Project.m51") RAMSIZE(256) 
