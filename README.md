@@ -28,3 +28,5 @@ LED指示灯电路：
 ![4.png](//image.lceda.cn/oshwhub/7af16feaaa1149c6b5a6b46e920509ad.png)
 快充协议电路：
 使用CH224K快充协议芯片，该处电路与官方建议电路有所出入，官方电路使用电阻分压，但是在高电压（15V、20V）下，电阻发热严重，参考芯片手册，选择使用电源电路中的HT7113供电。
+## 嘉立创开源连接
+https://oshwhub.com/feiye_mc/kuai-chong-you-pian-type-c-zhuan-xt60
